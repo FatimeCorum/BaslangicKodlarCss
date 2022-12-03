@@ -1,0 +1,36 @@
+.AnaBaslik{
+    color: red;
+    text-align: center;
+}
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+}
+.AltBaslik{
+    color: magenta;
+    text-align: center;
+}
+#AnasayfaAciklama{
+    text-align: center;
+}
+
+#AnasayfaMuzikAletleri{
+    color: rgb(135, 135, 0);
+    text-align: center;
+}
+
+#Kategori{
+    text-align: center;
+    list-style-position: inside
+
+}
+#urunler{
+    text-align: center;
+    list-style-position: inside
+}
+#OrtalıYazi{
+    text-align: center;
+}
+.HakkimizdaBaslik{
+    color: rgb(135, 135, 0);
+}
